@@ -358,7 +358,8 @@ const reviews = [
     },
     {
         "id":"kajlkadflkj",
-        "review":"Kamrul Hassaan karima"
+        "review":"Kamrul Hassaan karima",
+        "rating":5.00
     }
 
 ]
